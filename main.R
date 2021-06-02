@@ -1,6 +1,6 @@
 # IMPORTANT NOTICE:
 # unfortunately, the project has been initially made as a part of Russian university exam-task.
-# This is why most values are in Russian. The translation for values will be selected as a comment
+# This is why most values are in Russian. The translation for some values will be explained in comments
 # in the following format:
 # * value in Russian - translation
 
