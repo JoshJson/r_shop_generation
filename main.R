@@ -1,3 +1,9 @@
+# IMPORTANT NOTICE:
+# unfortunately, the project has been initially made as a part of Russian university exam-task.
+# This is why most values are in Russian. The translation for values will be selected as a comment
+# in the following format:
+# * value in Russian - translation
+
 # CONSTANTS
 COMPANY_NAME = 'паралакс' # company name. Used to establish connection with working directory which should have
 # the same name as the name of the company
@@ -449,11 +455,6 @@ generate.data.specific <- function(
   row_wrapper <- rep(0, num_of_initial_rows)
   this_table = data.frame("Магазины" = row_wrapper, sd = row_wrapper, Выручка = row_wrapper, Прибыль = row_wrapper, Реализация = row_wrapper, Списание = row_wrapper)
   
-  # IMPORTANT NOTICE:
-  # unfortunately, the project has been initially made as a part of Russian university exam-task.
-  # This is why most values are in Russian. The translation for values will be selected as a comment
-  # in the following format:
-  # * value in Russian - translation
   
   # * Продажи_макс - max sales
   # * День - days for max sales
