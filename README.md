@@ -7,6 +7,6 @@ Analysation includes:
 * basic economic evaluations
   * Total Costs
   * Profits
-  * Utilasations
+  * Utilisations
   * Standart deviation
 * plotting correlation between two differnt sets of variables
